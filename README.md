@@ -8,7 +8,7 @@ Threshold is set to **4.07** by default (average of **(average of grades and beh
 ***test_weights.py*** - is for testing those weights (needs manually type in directly into code bias_w, a_w and b_w)
 
 in ***main.py*** you can change those variables as you want for fun
-# Defining variables
+*Defining variables:*
 eta=0.2
 epochs=1000
 students = 27*4
